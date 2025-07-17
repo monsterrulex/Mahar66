@@ -19,8 +19,8 @@ rm -rf Mahar66
 git clone https://github.com/monsterrulex/Mahar66
 cd Mahar66
 git pull
-chmod 777 MAHAR366
-./MAHAR366
+chmod 777 MAHAR
+./MAHAR
 ```
 
 ## :telephone_receiver: Admin Contact Information
