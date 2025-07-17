@@ -16,7 +16,7 @@
 ```bash
 cd
 rm -rf Mahar66
-git clone https://github.com/MaharRulex/Mahar
+git clone https://github.com/monsterrulex/Mahar66
 cd Mahar66
 git pull
 chmod 777 MAHAR366
