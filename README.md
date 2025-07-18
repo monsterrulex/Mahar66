@@ -18,8 +18,9 @@ rm -rf Mahar66
 pkg update 
 git clone https://github.com/monsterrulex/Mahar66
 cd Mahar66
+git pull
 chmod 777 mahar
-python mahar.py
+./mahar
 ```
 
 ## :telephone_receiver: Admin Contact Information
